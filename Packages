@@ -1,0 +1,51 @@
+Package: com.shibakoyt.com
+Name: libclassictelephonyui
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: debs/libclassictelephonyui_1.2-2.deb
+Size: 317154
+MD5sum: 5c40b59a6ca74bea96b1a880f3d719fe
+SHA1: 13de64e517ce18352dad5f6f7c8aeddc1dd44f31
+SHA256: 4d890136950c64f5959d20709ac4f28748ea64180d293e8ca3a08482be695c78
+Section: Tweaks
+Description: 
+
+Package: com.shibakoyt.com
+Name: afc 2
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: debs/com.saurik.afc2d_1.2_iphoneos-arm.deb
+Size: 18114
+MD5sum: 34291f44d22cfbbf3eb4bad0ade3b89c
+SHA1: bddaf385263b9aad2b032b2116179f83afd077cc
+SHA256: 287ac4ce1a6e4095e824fd90f71fed301ff7d9508f1cd2d87a7354053e347a3c
+Section: Tweaks
+Description: 
+
+Package: com.shibakoyt.com
+Name: appsync unified
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: debs/ai.akemi.appsyncunified_116.0_iphoneos-arm.akemi-git-235aca6cddfbdc9fa87fcb5b2aec2df37ed6d65a.deb
+Size: 51658
+MD5sum: 536009a11dad57e48a5563224eaffaff
+SHA1: e0fa412cb3c26718887edd834804c88909297079
+SHA256: 0036f28fcbdb165d4f58968a237ca9fe7b6ed33fea25b9a5eb1fc141f6bf5a09
+Section: Tweaks
+Description: 
+
+Package: com.shibakoyt.com
+Name: classiclockscreen
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: debs/org.coolstar..classiclockscreen_3.3.1_iphoneos-arm.deb
+Size: 736186
+MD5sum: 7d5da71444883fec6d4273860d981ca3
+SHA1: 3959241070d7b0a0cd41b21a733aaa70351962e1
+SHA256: 225d085f3b8af7bd9b3f1b479efa56c9804c87e7afa322689dc676ffe83ff2ef
+Section: Tweaks
+Description:
